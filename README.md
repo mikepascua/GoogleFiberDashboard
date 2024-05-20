@@ -58,7 +58,7 @@ In Tableau, I also added three calculated fields:
 * **Sum Repeat** - sum of all repeat calls
 * **Repeat Call Rate** - percentage of repeat calls over total calls
 
-I also created a **Date Parameter** to filter the data from monthly to weekly.
+I also created a **Date Parameter** to filter the data to monthly and weekly period.
 
 ![Data Parameter](https://github.com/mikepascua/GoogleFiberDashboard/assets/170308027/ac16038f-0dc1-4a55-a77d-8c8aff1e81f1)
 
